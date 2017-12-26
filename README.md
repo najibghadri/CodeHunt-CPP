@@ -7,7 +7,7 @@ Only on Linux
 - Lambda-based level-making
 - Enjoy
 
-TODO: Generate the levels.cpp as commented
+TODO: Generate the levels.cpp as commented.
 UI strings exported with understandable names.
 
 ![screenshot](https://github.com/najibghadri/CodeHunt-CPP/blob/master/Screenshot_20171226_225121.png)
