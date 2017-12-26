@@ -4,7 +4,7 @@ Only on Linux
 
 - Make your own levels easily by updating levels.cpp
 - Any input/output type
-- Lambda based level-making
+- Lambda-based level-making
 - Enjoy
 
 TODO: Generate the levels.cpp as commented
