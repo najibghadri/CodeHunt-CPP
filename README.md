@@ -9,8 +9,11 @@ Only on Linux
 
 TODO: Generate the levels.cpp as commented
 
+UI strings exported with understandable names.
+
 ![screenshot](https://github.com/najibghadri/CodeHunt-CPP/blob/master/Screenshot_20171226_225121.png)
 
 
 Made with C++14, C++11 elements.
-Used parameter packing, tuples, dynamic compiling and linking (dsym), 
+
+Used parameter packing, tuples, dynamic compiling and linking (dsym).
