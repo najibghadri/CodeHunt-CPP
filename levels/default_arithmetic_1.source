@@ -1,0 +1,5 @@
+
+// Ide irjad a megoldast :)
+extern "C" int Solution(int x) {
+    return 0;
+}

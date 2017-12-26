@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CodeHunt"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CodeHunt">
+				<Option output="/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/CodeHunt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 CodeHunt"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CodeHunt/fast">
+				<Option output="/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/CodeHunt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 CodeHunt/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/najib/Documents/CPP11/CodeHunt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/codehunt.cpp">
+			<Option target="CodeHunt"/>
+		</Unit>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/codeloader.hpp">
+			<Option target="CodeHunt"/>
+		</Unit>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/constants.h">
+			<Option target="CodeHunt"/>
+		</Unit>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/generic_level.hpp">
+			<Option target="CodeHunt"/>
+		</Unit>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/level.hpp">
+			<Option target="CodeHunt"/>
+		</Unit>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/levels/levels.cpp">
+			<Option target="CodeHunt"/>
+		</Unit>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/levels/levels.hpp">
+			<Option target="CodeHunt"/>
+		</Unit>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/stringlevel.hpp">
+			<Option target="CodeHunt"/>
+		</Unit>
+		<Unit filename="/home/najib/Documents/CPP11/CodeHunt/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

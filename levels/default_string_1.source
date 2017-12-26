@@ -1,0 +1,6 @@
+#include <string>
+
+// Ide irjad a megoldast :)
+extern "C" std::string Solution(std::string str) {
+    return "";
+}
